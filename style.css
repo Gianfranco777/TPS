@@ -1,0 +1,22 @@
+body{
+    background-color: antiquewhite;
+    margin: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+#result{
+    text-align: center;
+    float: center;
+}
+#titolo{
+    text-decoration: double;
+    text-align: center;
+    text-decoration-color: blanchedalmond;
+}
+table th,td{
+    width: 10%;
+    border: 1px solid;
+    
+}
